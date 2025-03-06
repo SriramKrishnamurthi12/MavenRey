@@ -1,0 +1,4 @@
+/home/ec2-user/artifact1/server/src/test/java/group1/server/Common.java
+/home/ec2-user/artifact1/server/src/test/java/group1/server/GreetResourceMockedTest.java
+/home/ec2-user/artifact1/server/src/test/java/group1/server/GreetResourceInstancePrincipalTest.java
+/home/ec2-user/artifact1/server/src/test/java/group1/server/GreetResourceConfigFileTest.java

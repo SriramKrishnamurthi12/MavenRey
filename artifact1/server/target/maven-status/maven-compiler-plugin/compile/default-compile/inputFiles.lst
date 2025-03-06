@@ -1,0 +1,11 @@
+/home/ec2-user/artifact1/server/src/main/java/group1/server/package-info.java
+/home/ec2-user/artifact1/server/target/generated-sources/server/src/main/java/group1/server/api/GreetService.java
+/home/ec2-user/artifact1/server/src/main/java/group1/server/GreetResource.java
+/home/ec2-user/artifact1/server/target/generated-sources/server/src/main/java/group1/server/RestApplication.java
+/home/ec2-user/artifact1/server/src/main/java/group1/server/GreetLivenessCheck.java
+/home/ec2-user/artifact1/server/src/main/java/group1/server/GreetReadinessCheck.java
+/home/ec2-user/artifact1/server/target/generated-sources/server/src/main/java/group1/server/RFC3339DateFormat.java
+/home/ec2-user/artifact1/server/target/generated-sources/server/src/main/java/group1/server/model/GreetUpdate.java
+/home/ec2-user/artifact1/server/target/generated-sources/server/src/main/java/group1/server/model/GreetResponse.java
+/home/ec2-user/artifact1/server/src/main/java/group1/server/GreetingProvider.java
+/home/ec2-user/artifact1/server/target/generated-sources/server/src/main/java/group1/server/JavaTimeFormatter.java

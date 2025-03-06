@@ -1,0 +1,7 @@
+/home/ec2-user/artifact1/client/target/generated-sources/client/src/main/java/group1/client/api/GreetApi.java
+/home/ec2-user/artifact1/client/target/generated-sources/client/src/main/java/group1/client/model/GreetUpdate.java
+/home/ec2-user/artifact1/client/target/generated-sources/client/src/main/java/group1/client/RFC3339DateFormat.java
+/home/ec2-user/artifact1/client/target/generated-sources/client/src/main/java/group1/client/model/GreetResponse.java
+/home/ec2-user/artifact1/client/target/generated-sources/client/src/main/java/group1/client/api/ApiException.java
+/home/ec2-user/artifact1/client/target/generated-sources/client/src/main/java/group1/client/JavaTimeFormatter.java
+/home/ec2-user/artifact1/client/target/generated-sources/client/src/main/java/group1/client/api/ApiExceptionMapper.java

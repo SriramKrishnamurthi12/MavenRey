@@ -1,0 +1,37 @@
+kind: Service
+apiVersion: v1
+metadata:
+  name: artifact1-svc
+  labels:
+    app: artifact1
+spec:
+  type: NodePort
+  selector:
+    app: artifact1
+  ports:
+  - port: 8080
+    targetPort: 8080
+    name: http
+---
+kind: Deployment
+apiVersion: apps/v1
+metadata:
+  name: artifact1-deploy
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: artifact1
+  template:
+    metadata:
+      labels:
+        app: artifact1
+        version: v1
+    spec:
+      containers:
+      - name: artifact1-server
+        image: artifact1-server
+        imagePullPolicy: IfNotPresent
+        ports:
+        - containerPort: 8080
+---
